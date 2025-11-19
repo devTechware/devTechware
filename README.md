@@ -49,8 +49,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devtechware&label=Profile%20views&color=0e75b6&style=flat" alt="devtechware" />
 </p>
-
-
-<p align="center">
-  <img src="https://github.com/devtechware/devtechware/raw/output/github-contribution-grid-snake.svg" alt="Contributions" />
-</p>
