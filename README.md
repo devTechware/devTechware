@@ -1,9 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Rabin Khandakar</h1>
-<h3 align="center">A passionate MARN Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
+👨‍💻 About Me
 
+I'm a dedicated MERN (MongoDB, Express, React, Node.js) Stack Developer specializing in building modern, scalable, and high-performance web applications. I thrive on translating complex requirements into elegant, efficient code, focusing on delivering exceptional user experiences and robust backend solutions.
 
-- 🔭 I'm currently working on **MERN & MARN Stack Projects**
+My passion lies in the full-stack development cycle: from structuring NoSQL databases with MongoDB to crafting responsive and dynamic user interface with React, all powered by a Node.js/Express backend.
+
+- 🔭 I'm currently working on **MERN Stack Projects**
 
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
 
